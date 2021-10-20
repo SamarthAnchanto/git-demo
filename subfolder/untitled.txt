@@ -1,3 +1,5 @@
 this is an index file
 that is being used for
-exoerimental purposes
+experimental purposes
+
+Making changes to be pushed on GitHub
